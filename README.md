@@ -1,2 +1,3 @@
-# Project
-This is my first project
+# Website development Project
+This is my first mini-project
+
